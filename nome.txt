@@ -1,0 +1,9 @@
+Ola esse e o teste do modulo 2.
+
+• Criar um repositório no Github, ex: curso_ebac_frontend;
+
+• Criar uma branchchamada exercicio_gitno repositório recém-criado;
+
+• Na branchexercício_gitdeverá ser adicionado um arquivo nome.txt com o seu nome completo;
+
+• Deverá disponibilizar o link do repositório no portal do aluno.
