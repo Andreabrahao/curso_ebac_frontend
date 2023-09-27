@@ -1,6 +1,6 @@
 Ola esse e o teste do modulo 2
 
-Andre Abrahao Marques.
+André Abrahão Marques.
 
 • Criar um repositório no Github, ex: curso_ebac_frontend;
 
